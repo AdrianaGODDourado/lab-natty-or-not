@@ -19,29 +19,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+github ADRIANADOURADO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criado para divulgar os trabalhos do BOOTCAMP CAIXA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Várias produções utilizando IA, CHATGPT, ELEVENLABS, MIDJOURNEY, ADOBEFIREFLY
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Meus conteúdos foram criados utilizando como base a nova resolução do BACEN, como forma de divulgação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook e podcast
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É de quebrar a cabeça, mas é extremamente gratificante quando o projeto finaliza em bons resultados.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
